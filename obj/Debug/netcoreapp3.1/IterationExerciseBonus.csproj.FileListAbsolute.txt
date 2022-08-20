@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\bin\Debug\netcoreapp3.1\IterationExerciseBonus.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\bin\Debug\netcoreapp3.1\IterationExerciseBonus.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\bin\Debug\netcoreapp3.1\IterationExerciseBonus.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\bin\Debug\netcoreapp3.1\IterationExerciseBonus.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\bin\Debug\netcoreapp3.1\IterationExerciseBonus.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\bin\Debug\netcoreapp3.1\IterationExerciseBonus.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\IterationExerciseBonus\IterationExerciseBonus\obj\Debug\netcoreapp3.1\IterationExerciseBonus.genruntimeconfig.cache
